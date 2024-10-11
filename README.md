@@ -1,6 +1,18 @@
-### Hi there 👋
+## Hello there 👋
 
-Take a look at my blog at: [https://www.noart.dv](No art. Dev)
+<br/>
+
+You can take a look at my blog at [No art. Dev](https://www.noart.dev)
+
+Or not. Do whatever you want 🙂
+
+<br/>
+
+#### You can contact me at
+
+<a href="https://linkedin.com/in/luissensatferrer" target="_blank" style="text-decoration:none;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luissensatferrer" height="30" width="40" />
+</a>
 
 <!--
 **alvaromateo/alvaromateo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
