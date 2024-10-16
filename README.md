@@ -10,8 +10,8 @@ Or not. Do whatever you want 🙂
 
 #### You can contact me at
 
-<a href="https://linkedin.com/in/luissensatferrer" target="_blank" style="text-decoration:none;">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luissensatferrer" height="30" width="40" />
+<a href="https://www.linkedin.com/in/alvaromateoalvarez" target="_blank" style="text-decoration:none;">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvaromateo" height="30" width="40" />
 </a>
 
 <!--
